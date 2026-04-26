@@ -1,0 +1,501 @@
+User_ID,Name,Age,Gender,City,Signup_Date,Last_Purchase_Date,Purchase_Amount,Feedback_Score,Product_Category,Payment_Method
+1001,Priya Verma,,Male,Bangalore,2022-06-19,2022-07-13,4819.26,3.2,Home Decor,UPI
+1002,Rahul Verma,46.0,Female,Kolkata,2023-06-30,2024-04-18,2792.69,2.5,Home Decor,UPI
+1003,Ankit Sen,32.0,Male,Bangalore,2023-02-18,2023-02-22,4832.53,,Groceries,Cash on Delivery
+1004,Arjun Das,25.0,Male,Delhi,2022-09-08,2023-04-16,2219.24,1.4,Electronics,Card
+1005,Rahul Gupta,38.0,Male,Mumbai,2024-01-29,2025-01-27,1627.9,2.7,Home Decor,Cash on Delivery
+1006,Rahul Dutta,56.0,Male,Kolkata,2024-02-20,2024-03-11,2580.1,,Home Decor,Cash on Delivery
+1007,Karan Gupta,36.0,Male,Chennai,2022-05-21,2022-10-20,2253.61,4.0,Clothing,Cash on Delivery
+1008,Sneha Roy,40.0,Male,Delhi,2022-10-01,2022-11-20,617.76,4.7,Home Decor,Card
+1009,Amit Singh,28.0,Male,Bangalore,2023-02-20,2023-08-16,3240.05,2.1,Groceries,UPI
+1010,Priya Sen,28.0,Female,Delhi,2023-08-31,2023-12-05,1158.59,4.4,Clothing,Cash on Delivery
+1011,Sneha Gupta,41.0,Male,Kolkata,2024-01-09,2024-04-23,3135.98,2.2,Electronics,Cash on Delivery
+1012,Priya Singh,53.0,Male,Bangalore,2024-06-09,2025-02-14,3285.99,4.6,Clothing,Card
+1013,Arjun Roy,57.0,Female,Mumbai,2022-02-08,2022-06-05,844.92,4.0,Groceries,Cash on Delivery
+1014,Priya Gupta,41.0,Female,Delhi,2024-03-24,2025-03-13,400.61,4.2,Groceries,UPI
+1015,Sneha Paul,20.0,Female,Kolkata,2022-01-29,2022-09-14,3925.73,1.1,Clothing,Card
+1016,Priya Sharma,39.0,Male,Chennai,2023-04-22,2023-06-27,,4.9,Electronics,UPI
+1017,Sneha Kumar,19.0,Female,Bangalore,2022-11-14,2023-10-15,385.0,3.9,Clothing,UPI
+1018,Sneha Das,41.0,Male,Delhi,2022-09-02,2023-05-22,4974.84,2.2,Electronics,Card
+1019,Amit Kumar,47.0,Male,Delhi,2024-01-18,2024-11-08,383.12,4.3,Clothing,Cash on Delivery
+1020,Neha Gupta,55.0,Male,Mumbai,2023-11-28,2024-07-28,3505.67,2.1,Groceries,UPI
+1021,Neha Roy,19.0,Male,Mumbai,2022-09-29,2023-04-03,4920.03,4.5,Home Decor,UPI
+1022,Arjun Sen,38.0,Female,Chennai,2023-03-16,2023-11-17,1271.98,1.5,Home Decor,UPI
+1023,Amit Kumar,50.0,Female,Chennai,2024-01-18,2024-05-22,797.02,3.8,Electronics,UPI
+1024,Pooja Paul,29.0,Male,Kolkata,2022-08-27,2023-05-22,694.79,3.2,Electronics,Card
+1025,Riya Roy,39.0,Male,Kolkata,2023-01-12,2023-05-23,1586.05,1.4,Electronics,Card
+1026,Riya Kumar,42.0,Male,Chennai,2022-09-23,2023-05-18,595.12,2.0,Groceries,UPI
+1027,Amit Kumar,44.0,Female,Chennai,2022-12-25,2023-01-12,3491.59,1.0,Clothing,Cash on Delivery
+1028,Priya Verma,59.0,Male,Bangalore,2022-12-06,2023-01-15,405.23,2.9,Groceries,UPI
+1029,Ankit Sen,45.0,Male,Mumbai,2023-01-24,2023-02-14,,2.2,Home Decor,Cash on Delivery
+1030,Amit Dutta,33.0,Female,Kolkata,2023-07-31,2024-03-12,4983.81,3.4,Electronics,UPI
+1031,Amit Kumar,32.0,Female,Mumbai,2023-11-20,2024-11-09,4088.45,2.2,Clothing,Cash on Delivery
+1032,Sneha Roy,20.0,Male,Mumbai,2022-01-03,2022-10-12,3114.58,2.2,Home Decor,UPI
+1033,Pooja Dutta,,Female,Chennai,2023-03-05,2023-03-13,1600.64,4.0,Home Decor,Cash on Delivery
+1034,Ankit Sen,24.0,Female,Bangalore,2022-05-22,2022-08-30,3157.09,1.2,Home Decor,UPI
+1035,Arjun Dutta,38.0,Male,Delhi,2023-01-11,2023-09-08,2682.5,4.6,Groceries,UPI
+1036,Riya Verma,26.0,Female,Bangalore,2023-11-01,2024-01-27,,4.4,Electronics,Cash on Delivery
+1037,Ankit Das,56.0,Male,Bangalore,2022-11-20,2023-09-14,740.48,3.7,Home Decor,Card
+1038,Riya Kumar,35.0,Female,Mumbai,2022-05-26,2022-06-09,4444.36,3.4,Electronics,Cash on Delivery
+1039,Pooja Paul,21.0,Male,Bangalore,2022-10-20,2023-09-19,2303.94,4.6,Groceries,Card
+1040,Pooja Das,42.0,Male,Kolkata,2023-10-27,2023-10-29,1053.65,,Home Decor,UPI
+1041,Sneha Dutta,31.0,Male,Mumbai,2023-03-08,2023-12-26,1902.02,1.3,Groceries,Cash on Delivery
+1042,Riya Roy,26.0,Female,Kolkata,2023-12-06,2024-10-26,2129.24,2.0,Groceries,Cash on Delivery
+1043,Pooja Dutta,43.0,Male,Delhi,2023-08-08,2023-09-18,4154.94,4.2,Electronics,Cash on Delivery
+1044,Karan Sharma,19.0,Female,Mumbai,2023-02-03,2023-12-18,3694.71,1.1,Home Decor,Card
+1045,Amit Sharma,37.0,Male,Delhi,2024-03-27,2025-02-06,3869.59,3.3,Groceries,Card
+1046,Priya Gupta,45.0,Male,Mumbai,2024-06-07,2024-09-26,154.05,5.0,Home Decor,UPI
+1047,Priya Gupta,,Female,Chennai,2022-12-10,2022-12-24,2139.15,4.4,Electronics,Card
+1048,Amit Verma,25.0,Male,Bangalore,2022-05-20,2023-01-06,2458.59,,Groceries,Card
+1049,Priya Roy,52.0,Male,Chennai,2022-07-06,2022-09-28,194.04,1.3,Electronics,UPI
+1050,Arjun Singh,31.0,Female,Delhi,2024-03-15,2024-07-23,1373.08,4.3,Home Decor,Cash on Delivery
+1051,Sneha Verma,34.0,Male,Bangalore,2022-03-02,2022-10-19,3825.42,3.4,Home Decor,Cash on Delivery
+1052,Arjun Dutta,53.0,Male,Mumbai,2023-01-15,2023-12-07,771.84,1.5,Electronics,UPI
+1053,Arjun Roy,57.0,Male,Bangalore,2023-12-11,2024-05-04,2723.02,1.4,Clothing,Cash on Delivery
+1054,Arjun Singh,21.0,Male,Kolkata,2024-03-17,2025-02-25,1154.49,4.6,Groceries,Card
+1055,Priya Roy,19.0,Female,Bangalore,2023-03-16,2023-04-13,159.39,3.7,Home Decor,UPI
+1056,Sneha Gupta,23.0,Female,Kolkata,2022-11-15,2023-01-20,1281.89,,Home Decor,UPI
+1057,Pooja Paul,59.0,Male,Bangalore,2022-10-29,2023-04-10,4881.78,4.5,Groceries,UPI
+1058,Rahul Sen,21.0,Female,Kolkata,2022-12-10,2023-07-27,4027.53,3.3,Electronics,Cash on Delivery
+1059,Riya Paul,46.0,Male,Delhi,2022-01-11,2022-09-29,4801.93,3.1,Electronics,UPI
+1060,Pooja Roy,35.0,Female,Chennai,2022-03-03,2022-08-14,2490.48,2.7,Electronics,UPI
+1061,Arjun Roy,43.0,Male,Mumbai,2024-04-24,2025-02-19,637.71,2.3,Clothing,UPI
+1062,Karan Dutta,51.0,Male,Bangalore,2022-08-14,2023-06-13,2785.0,2.7,Clothing,Cash on Delivery
+1063,Rahul Singh,27.0,Male,Chennai,2022-06-02,2023-03-16,2326.45,4.1,Home Decor,Card
+1064,Ankit Das,53.0,Male,Mumbai,2023-12-12,2023-12-22,,3.4,Electronics,UPI
+1065,Pooja Sen,31.0,Male,Mumbai,2023-07-18,2024-01-29,580.6,4.6,Groceries,Card
+1066,Pooja Sharma,48.0,Male,Kolkata,2024-02-11,2024-06-08,2492.38,2.8,Home Decor,Cash on Delivery
+1067,Karan Kumar,32.0,Female,Delhi,2023-07-25,2024-04-20,835.24,3.4,Groceries,Cash on Delivery
+1068,Sneha Gupta,25.0,Male,Delhi,2023-08-07,2023-10-26,1690.91,3.5,Home Decor,Cash on Delivery
+1069,Priya Sen,31.0,Female,Chennai,2023-10-22,2024-01-23,3713.05,3.4,Clothing,Cash on Delivery
+1070,Arjun Sen,40.0,Male,Delhi,2024-05-10,2025-01-31,2432.49,3.8,Home Decor,Card
+1071,Riya Sen,57.0,Female,Bangalore,2023-07-29,2024-06-25,1941.85,1.9,Clothing,UPI
+1072,Riya Roy,38.0,Female,Delhi,2022-11-06,2023-10-22,2032.93,3.0,Home Decor,Cash on Delivery
+1073,Priya Das,33.0,Female,Chennai,2024-06-03,2025-05-30,2351.29,1.4,Electronics,Cash on Delivery
+1074,Sneha Das,35.0,Male,Delhi,2022-08-31,2023-05-15,3946.58,2.5,Groceries,Card
+1075,Pooja Dutta,41.0,Male,Bangalore,2023-05-08,2023-09-18,4471.21,3.0,Electronics,Card
+1076,Sneha Das,43.0,Female,Kolkata,2023-01-01,2023-10-04,4781.14,3.6,Home Decor,Cash on Delivery
+1077,Riya Roy,42.0,Male,Chennai,2022-11-26,2023-08-17,3955.83,4.8,Home Decor,UPI
+1078,Sneha Dutta,58.0,Female,Kolkata,2022-04-17,2022-10-05,1645.49,3.4,Home Decor,UPI
+1079,Karan Dutta,46.0,Male,Kolkata,2022-08-14,2022-08-15,3471.86,4.0,Clothing,Cash on Delivery
+1080,Arjun Sharma,,Female,Kolkata,2024-04-04,2025-02-11,2244.26,3.0,Groceries,Card
+1081,Neha Sen,18.0,Female,Mumbai,2022-08-06,2022-10-09,1347.89,3.5,Groceries,Cash on Delivery
+1082,Karan Gupta,42.0,Male,Mumbai,2024-01-23,2024-11-02,4220.27,1.3,Home Decor,Cash on Delivery
+1083,Amit Das,24.0,Female,Kolkata,2023-05-21,2023-09-19,288.29,2.0,Home Decor,Card
+1084,Karan Kumar,26.0,Male,Chennai,2022-09-16,2023-01-01,4518.63,2.4,Clothing,Cash on Delivery
+1085,Neha Singh,,Female,Bangalore,2024-06-06,2024-11-28,,2.9,Electronics,Cash on Delivery
+1086,Arjun Gupta,18.0,Female,Bangalore,2024-02-13,2024-09-04,3222.29,1.2,Electronics,Cash on Delivery
+1087,Ankit Sharma,25.0,Male,Delhi,2023-06-01,2023-11-13,3330.83,1.6,Groceries,Card
+1088,Priya Paul,41.0,Male,Chennai,2024-02-12,2024-12-13,,2.1,Clothing,UPI
+1089,Riya Gupta,28.0,Male,Mumbai,2022-02-23,2022-06-23,3219.68,4.9,Home Decor,UPI
+1090,Priya Verma,34.0,Female,Kolkata,2022-02-16,2022-04-01,3108.27,2.3,Groceries,Card
+1091,Riya Gupta,25.0,Male,Delhi,2023-12-28,2024-11-04,426.59,2.9,Clothing,UPI
+1092,Karan Verma,52.0,Female,Bangalore,2023-11-20,2024-04-24,2640.2,1.8,Electronics,Cash on Delivery
+1093,Sneha Sen,52.0,Female,Mumbai,2023-06-05,2023-12-29,835.83,3.4,Clothing,UPI
+1094,Neha Kumar,50.0,Male,Mumbai,2022-04-09,2022-07-26,3713.43,2.1,Electronics,Cash on Delivery
+1095,Rahul Sharma,22.0,Male,Kolkata,2022-01-20,2022-09-28,2609.89,1.8,Clothing,UPI
+1096,Arjun Kumar,59.0,Female,Bangalore,2024-06-08,2025-05-08,3433.12,3.1,Groceries,Card
+1097,Pooja Das,,Female,Chennai,2024-01-23,2024-06-01,304.2,1.0,Electronics,UPI
+1098,Karan Verma,58.0,Male,Mumbai,2023-07-27,2024-05-15,515.48,1.0,Groceries,UPI
+1099,Rahul Gupta,,Male,Kolkata,2024-06-09,2024-06-29,3609.98,1.9,Groceries,UPI
+1100,Neha Das,24.0,Male,Chennai,2023-05-05,2024-02-11,453.21,1.1,Electronics,Card
+1101,Riya Das,26.0,Male,Bangalore,2023-02-23,2023-12-05,449.16,1.4,Electronics,UPI
+1102,Rahul Gupta,25.0,Male,Mumbai,2023-11-21,2023-11-22,159.33,2.4,Home Decor,Card
+1103,Karan Roy,29.0,Female,Chennai,2024-04-29,2024-08-26,4786.86,4.2,Home Decor,Cash on Delivery
+1104,Amit Sharma,51.0,Female,Chennai,2022-03-03,2022-04-07,3713.79,3.3,Home Decor,UPI
+1105,Riya Gupta,50.0,Female,Chennai,2022-05-25,2022-12-09,1830.93,3.1,Groceries,Card
+1106,Neha Dutta,40.0,Female,Mumbai,2022-08-04,2023-04-06,1553.02,2.2,Groceries,Card
+1107,Neha Gupta,41.0,Male,Mumbai,2022-01-03,2022-03-03,1813.55,4.7,Home Decor,UPI
+1108,Sneha Paul,54.0,Male,Delhi,2022-06-09,2023-04-30,3895.8,2.6,Groceries,Cash on Delivery
+1109,Arjun Sharma,,Male,Bangalore,2024-01-09,2024-06-18,3340.72,1.3,Groceries,Card
+1110,Arjun Sharma,57.0,Female,Kolkata,2024-02-20,2024-08-17,1007.46,3.5,Electronics,UPI
+1111,Arjun Das,39.0,Female,Chennai,2022-04-30,2022-11-22,953.14,1.5,Electronics,Cash on Delivery
+1112,Amit Verma,44.0,Male,Delhi,2024-06-11,2024-06-23,582.14,2.4,Groceries,Card
+1113,Rahul Gupta,52.0,Male,Kolkata,2022-03-30,2022-12-31,3335.48,3.0,Home Decor,Card
+1114,Amit Sharma,18.0,Female,Delhi,2022-11-25,2023-05-25,3845.43,4.5,Clothing,Cash on Delivery
+1115,Sneha Gupta,52.0,Female,Mumbai,2023-08-03,2024-04-01,1398.73,3.0,Home Decor,Cash on Delivery
+1116,Sneha Sharma,54.0,Male,Chennai,2022-12-23,2023-07-27,202.63,3.8,Clothing,UPI
+1117,Rahul Kumar,31.0,Male,Kolkata,2023-09-02,2024-05-10,502.64,5.0,Home Decor,UPI
+1118,Riya Roy,20.0,Female,Kolkata,2022-09-24,2023-07-20,4842.51,1.5,Electronics,Card
+1119,Amit Sharma,18.0,Male,Kolkata,2023-09-09,2024-01-13,1547.68,2.1,Groceries,Cash on Delivery
+1120,Amit Roy,22.0,Male,Kolkata,2022-11-19,2023-06-24,3869.19,2.6,Groceries,Cash on Delivery
+1121,Arjun Das,43.0,Male,Kolkata,2023-09-27,2024-07-29,,2.7,Electronics,Cash on Delivery
+1122,Rahul Verma,31.0,Female,Delhi,2023-06-25,2024-04-05,1971.5,,Clothing,Card
+1123,Priya Roy,56.0,Female,Chennai,2023-10-11,2024-04-13,1107.87,4.6,Clothing,Cash on Delivery
+1124,Sneha Kumar,44.0,Female,Mumbai,2022-07-14,2022-08-22,694.79,3.9,Clothing,Cash on Delivery
+1125,Riya Singh,26.0,Female,Mumbai,2024-01-08,2024-08-18,3113.56,3.4,Electronics,Card
+1126,Amit Gupta,32.0,Female,Mumbai,2022-11-28,2023-05-31,,2.2,Clothing,UPI
+1127,Karan Singh,32.0,Female,Mumbai,2022-06-19,2022-12-14,3255.13,4.3,Electronics,UPI
+1128,Sneha Sen,43.0,Female,Delhi,2023-06-05,2024-03-25,2698.48,4.8,Home Decor,Card
+1129,Karan Kumar,59.0,Male,Bangalore,2023-04-08,2024-03-13,305.56,4.3,Home Decor,Cash on Delivery
+1130,Sneha Paul,30.0,Male,Chennai,2022-02-09,2022-07-10,4845.6,1.0,Electronics,Card
+1131,Pooja Paul,49.0,Male,Kolkata,2023-06-21,2023-10-25,4013.7,3.5,Groceries,UPI
+1132,Rahul Das,56.0,Male,Bangalore,2022-09-18,2023-07-16,1534.83,,Home Decor,UPI
+1133,Neha Gupta,49.0,Male,Mumbai,2023-01-30,2023-12-04,4901.85,2.0,Clothing,Card
+1134,Rahul Verma,21.0,Male,Bangalore,2022-08-14,2023-07-16,3049.22,1.2,Electronics,Card
+1135,Riya Roy,,Male,Chennai,2022-05-04,2022-12-24,2953.87,3.4,Clothing,UPI
+1136,Riya Paul,54.0,Female,Kolkata,2022-02-07,2022-02-15,3765.56,,Clothing,Card
+1137,Priya Paul,,Female,Kolkata,2022-11-24,2023-10-31,4077.67,1.5,Groceries,UPI
+1138,Pooja Singh,56.0,Male,Chennai,2022-09-08,2023-01-15,3316.75,2.5,Clothing,Card
+1139,Amit Singh,32.0,Male,Chennai,2022-06-25,2023-03-16,727.67,,Groceries,Card
+1140,Amit Verma,46.0,Female,Mumbai,2023-08-25,2024-01-29,1757.51,2.5,Home Decor,Card
+1141,Karan Gupta,,Male,Kolkata,2023-03-30,2024-03-16,4647.61,1.5,Electronics,UPI
+1142,Sneha Dutta,30.0,Male,Bangalore,2022-02-06,2023-01-30,1200.62,2.7,Clothing,Card
+1143,Sneha Roy,49.0,Female,Delhi,2022-11-12,2022-11-17,1923.62,4.0,Electronics,UPI
+1144,Amit Roy,24.0,Male,Delhi,2023-11-19,2024-02-13,2217.18,1.3,Clothing,UPI
+1145,Sneha Roy,39.0,Female,Chennai,2024-03-06,2024-08-28,2253.08,1.3,Electronics,Card
+1146,Arjun Gupta,45.0,Male,Mumbai,2023-08-16,2024-06-01,3103.4,2.4,Clothing,Card
+1147,Priya Verma,19.0,Female,Delhi,2022-04-24,2022-11-03,4721.07,4.8,Clothing,UPI
+1148,Riya Gupta,59.0,Female,Kolkata,2022-02-09,2022-12-17,1279.39,3.7,Clothing,UPI
+1149,Arjun Sharma,23.0,Female,Chennai,2022-10-28,2023-02-24,695.36,3.7,Clothing,Cash on Delivery
+1150,Amit Das,45.0,Male,Bangalore,2022-08-12,2023-03-18,1067.61,2.4,Clothing,UPI
+1151,Arjun Sharma,45.0,Female,Chennai,2022-11-14,2023-03-08,4445.93,3.4,Clothing,Cash on Delivery
+1152,Amit Gupta,37.0,Male,Bangalore,2022-12-15,2023-05-09,3264.47,,Clothing,Cash on Delivery
+1153,Karan Sen,47.0,Male,Chennai,2022-04-25,2022-05-21,1500.94,3.5,Clothing,Cash on Delivery
+1154,Rahul Verma,28.0,Male,Chennai,2023-11-29,2024-04-13,4098.14,4.7,Clothing,Card
+1155,Karan Roy,45.0,Male,Chennai,2022-11-19,2023-09-18,4320.71,3.5,Electronics,Card
+1156,Pooja Verma,42.0,Female,Bangalore,2023-07-22,2024-03-10,4247.92,4.5,Groceries,UPI
+1157,Neha Dutta,56.0,Female,Bangalore,2022-02-09,2022-04-26,4602.74,3.9,Clothing,Cash on Delivery
+1158,Sneha Das,50.0,Male,Chennai,2024-05-15,2025-04-08,1335.98,1.5,Groceries,Card
+1159,Riya Das,18.0,Male,Delhi,2022-02-09,2023-01-20,3799.71,4.6,Clothing,Card
+1160,Priya Paul,44.0,Female,Mumbai,2024-05-08,2025-03-06,2356.64,1.3,Clothing,Card
+1161,Arjun Paul,30.0,Male,Mumbai,2024-01-19,2024-11-03,4225.79,3.1,Electronics,Card
+1162,Neha Verma,58.0,Female,Mumbai,2022-10-16,2022-10-17,3669.6,1.6,Home Decor,Card
+1163,Arjun Das,20.0,Male,Bangalore,2022-09-19,2023-02-13,3904.59,1.0,Home Decor,Cash on Delivery
+1164,Arjun Gupta,56.0,Male,Bangalore,2022-08-04,2023-05-18,3315.19,2.7,Electronics,Cash on Delivery
+1165,Pooja Roy,23.0,Female,Delhi,2022-05-27,2022-10-16,969.4,2.2,Groceries,Cash on Delivery
+1166,Pooja Singh,25.0,Male,Mumbai,2022-12-02,2023-01-24,2770.63,2.9,Home Decor,Cash on Delivery
+1167,Pooja Kumar,44.0,Female,Mumbai,2022-06-17,2023-04-17,4924.88,3.3,Electronics,UPI
+1168,Ankit Das,26.0,Male,Chennai,2022-04-02,2022-06-10,4693.2,1.2,Electronics,Cash on Delivery
+1169,Pooja Paul,54.0,Male,Bangalore,2022-12-19,2023-12-15,311.55,1.5,Home Decor,Card
+1170,Riya Roy,50.0,Male,Mumbai,2023-07-25,2023-10-23,907.59,3.2,Groceries,Cash on Delivery
+1171,Riya Verma,59.0,Female,Delhi,2023-07-25,2024-03-01,745.47,2.4,Electronics,UPI
+1172,Sneha Verma,41.0,Male,Delhi,2024-03-26,2024-10-04,3657.3,3.9,Clothing,Card
+1173,Riya Paul,32.0,Male,Mumbai,2023-11-12,2024-01-14,4107.15,3.6,Groceries,Cash on Delivery
+1174,Arjun Sharma,49.0,Male,Bangalore,2024-02-20,2024-05-03,1146.21,4.4,Groceries,Cash on Delivery
+1175,Neha Paul,49.0,Male,Delhi,2022-12-29,2023-06-08,2578.68,3.8,Home Decor,Cash on Delivery
+1176,Karan Gupta,41.0,Female,Chennai,2023-07-11,2023-12-27,4219.44,2.7,Home Decor,Card
+1177,Karan Kumar,58.0,Female,Delhi,2022-12-11,2023-03-10,3690.73,3.7,Clothing,Card
+1178,Amit Sharma,29.0,Male,Kolkata,2023-11-24,2024-05-18,2756.96,2.1,Electronics,UPI
+1179,Priya Singh,56.0,Female,Kolkata,2022-06-19,2023-03-15,2992.7,2.2,Home Decor,Card
+1180,Karan Verma,19.0,Male,Bangalore,2022-12-22,2023-03-05,2590.97,4.2,Home Decor,Card
+1181,Ankit Paul,20.0,Male,Mumbai,2022-07-10,2023-03-12,1557.99,2.8,Groceries,Cash on Delivery
+1182,Karan Sen,54.0,Male,Bangalore,2023-10-29,2024-01-14,2868.61,4.2,Home Decor,Card
+1183,Sneha Paul,34.0,Female,Bangalore,2023-02-26,2023-08-04,3475.54,4.3,Home Decor,Cash on Delivery
+1184,Rahul Sharma,19.0,Female,Bangalore,2023-12-01,2024-10-20,4379.28,4.4,Home Decor,Cash on Delivery
+1185,Arjun Roy,19.0,Female,Bangalore,2022-01-07,2022-04-15,,4.7,Home Decor,Card
+1186,Neha Dutta,45.0,Female,Chennai,2022-05-13,2022-08-23,3829.5,2.7,Groceries,UPI
+1187,Neha Paul,40.0,Female,Chennai,2024-01-17,2024-05-28,884.35,2.3,Clothing,UPI
+1188,Priya Kumar,54.0,Female,Delhi,2023-07-11,2023-10-21,2361.63,3.3,Clothing,Card
+1189,Karan Sharma,49.0,Female,Kolkata,2024-04-05,2024-04-24,145.72,2.5,Electronics,UPI
+1190,Amit Singh,50.0,Female,Bangalore,2024-01-31,2024-04-22,1308.73,3.4,Home Decor,Cash on Delivery
+1191,Arjun Das,18.0,Female,Delhi,2022-01-31,2022-11-06,3659.66,3.8,Groceries,Cash on Delivery
+1192,Sneha Dutta,36.0,Male,Kolkata,2023-06-19,2024-05-23,4959.87,3.8,Electronics,Card
+1193,Ankit Paul,19.0,Female,Mumbai,2023-03-02,2024-01-27,585.97,2.5,Electronics,UPI
+1194,Ankit Sharma,43.0,Female,Chennai,2023-01-29,2023-06-07,2067.32,1.7,Clothing,UPI
+1195,Sneha Verma,49.0,Female,Kolkata,2023-11-03,2024-10-12,4020.35,2.7,Groceries,Cash on Delivery
+1196,Karan Sharma,,Female,Mumbai,2022-12-29,2023-11-04,1099.77,1.6,Groceries,Card
+1197,Ankit Sharma,49.0,Female,Kolkata,2023-03-13,2023-06-10,2819.92,4.6,Groceries,UPI
+1198,Karan Verma,21.0,Female,Chennai,2023-11-01,2024-06-01,3692.05,2.4,Clothing,Card
+1199,Rahul Dutta,28.0,Female,Chennai,2023-07-05,2023-11-25,3118.33,1.6,Clothing,UPI
+1200,Karan Verma,34.0,Female,Delhi,2022-03-23,2022-05-27,1021.32,1.1,Clothing,Cash on Delivery
+1201,Ankit Gupta,55.0,Female,Bangalore,2022-12-22,2023-03-08,1841.38,3.6,Clothing,Cash on Delivery
+1202,Pooja Verma,41.0,Female,Kolkata,2022-09-15,2023-04-02,3940.58,3.5,Clothing,Card
+1203,Rahul Singh,22.0,Female,Kolkata,2023-12-19,2024-05-10,2815.71,2.4,Home Decor,Cash on Delivery
+1204,Karan Kumar,51.0,Male,Mumbai,2023-08-12,2024-06-23,125.63,1.3,Home Decor,UPI
+1205,Arjun Paul,23.0,Male,Chennai,2023-06-08,2023-09-09,3828.85,2.6,Groceries,Cash on Delivery
+1206,Riya Das,39.0,Female,Kolkata,2022-10-22,2023-08-23,273.03,2.2,Electronics,Card
+1207,Pooja Sharma,28.0,Female,Chennai,2022-08-12,2023-03-24,,3.7,Groceries,Card
+1208,Amit Singh,33.0,Male,Kolkata,2023-06-09,2024-03-26,1092.15,3.4,Electronics,Card
+1209,Karan Verma,50.0,Female,Delhi,2022-02-15,2022-05-28,,2.5,Clothing,UPI
+1210,Sneha Dutta,26.0,Male,Bangalore,2023-10-29,2024-07-22,1902.91,1.9,Electronics,UPI
+1211,Riya Dutta,23.0,Male,Kolkata,2022-04-23,2023-04-13,1701.96,,Groceries,UPI
+1212,Riya Roy,33.0,Male,Chennai,2022-08-21,2022-12-09,829.55,2.8,Groceries,UPI
+1213,Amit Kumar,,Male,Delhi,2022-01-17,2022-12-13,1597.46,3.8,Electronics,UPI
+1214,Priya Kumar,20.0,Male,Kolkata,2022-12-26,2023-09-17,4395.59,1.6,Home Decor,Cash on Delivery
+1215,Pooja Kumar,37.0,Female,Mumbai,2022-08-11,2022-08-14,4982.04,2.9,Clothing,UPI
+1216,Riya Sen,53.0,Male,Bangalore,2024-05-15,2024-08-08,1904.72,1.1,Clothing,UPI
+1217,Pooja Das,36.0,Female,Kolkata,2023-12-01,2024-09-08,2298.19,3.0,Groceries,Cash on Delivery
+1218,Arjun Gupta,43.0,Female,Delhi,2023-03-24,2024-02-15,3638.15,4.9,Home Decor,UPI
+1219,Sneha Gupta,20.0,Male,Mumbai,2024-05-05,2025-03-05,4442.36,2.5,Electronics,Card
+1220,Karan Das,36.0,Male,Delhi,2022-12-31,2023-04-27,3005.92,1.2,Clothing,UPI
+1221,Priya Sharma,37.0,Female,Delhi,2023-11-06,2024-06-14,2018.48,1.1,Home Decor,UPI
+1222,Priya Gupta,49.0,Male,Mumbai,2022-11-22,2023-04-25,,2.6,Clothing,Card
+1223,Karan Singh,24.0,Male,Delhi,2023-04-12,2023-09-12,3508.53,1.6,Home Decor,Card
+1224,Priya Paul,58.0,Female,Mumbai,2023-02-18,2023-03-02,115.77,1.1,Home Decor,Card
+1225,Riya Kumar,50.0,Female,Kolkata,2023-03-31,2023-08-11,,4.0,Groceries,Card
+1226,Priya Sharma,,Male,Mumbai,2023-08-09,2024-06-08,,2.8,Clothing,UPI
+1227,Priya Gupta,56.0,Female,Mumbai,2022-08-21,2023-06-10,3991.57,2.2,Electronics,Card
+1228,Ankit Verma,,Male,Bangalore,2022-08-12,2023-06-08,555.65,4.6,Groceries,Card
+1229,Karan Das,57.0,Male,Mumbai,2024-04-10,2024-11-24,2982.19,1.5,Groceries,Cash on Delivery
+1230,Ankit Dutta,18.0,Male,Mumbai,2023-02-16,2023-11-14,2456.77,4.8,Electronics,Card
+1231,Sneha Das,28.0,Female,Kolkata,2023-07-26,2023-09-07,3247.4,2.3,Groceries,Card
+1232,Amit Sen,45.0,Female,Bangalore,2022-12-01,2023-11-09,417.78,4.6,Home Decor,Cash on Delivery
+1233,Sneha Singh,42.0,Female,Chennai,2022-08-10,2023-07-02,2941.92,3.4,Home Decor,Cash on Delivery
+1234,Arjun Sen,40.0,Female,Kolkata,2022-02-06,2022-12-05,2851.27,4.3,Clothing,UPI
+1235,Riya Sharma,48.0,Female,Kolkata,2022-10-05,2023-10-04,2847.23,4.9,Clothing,Cash on Delivery
+1236,Ankit Sharma,47.0,Male,Chennai,2022-07-15,2022-08-05,3057.09,2.2,Electronics,UPI
+1237,Riya Sharma,59.0,Male,Mumbai,2024-05-13,2024-08-28,3414.69,4.8,Clothing,Cash on Delivery
+1238,Pooja Singh,52.0,Male,Delhi,2023-04-29,2024-03-30,4044.45,2.6,Home Decor,Cash on Delivery
+1239,Arjun Sen,24.0,Male,Bangalore,2022-08-30,2023-06-29,1422.12,2.5,Electronics,UPI
+1240,Rahul Sen,33.0,Female,Delhi,2022-11-20,2023-03-17,4142.74,2.4,Electronics,Cash on Delivery
+1241,Riya Verma,43.0,Male,Chennai,2024-01-01,2024-05-04,2541.45,3.2,Clothing,UPI
+1242,Sneha Dutta,19.0,Female,Kolkata,2022-07-11,2023-04-18,477.59,1.6,Home Decor,Cash on Delivery
+1243,Rahul Roy,18.0,Male,Kolkata,2022-01-17,2022-11-05,386.9,3.2,Electronics,Card
+1244,Pooja Kumar,29.0,Female,Bangalore,2023-06-08,2023-12-28,1737.77,,Home Decor,Cash on Delivery
+1245,Pooja Paul,22.0,Female,Kolkata,2023-02-05,2023-03-28,3946.0,4.0,Home Decor,UPI
+1246,Sneha Dutta,54.0,Male,Kolkata,2024-06-04,2025-03-02,3567.64,4.3,Home Decor,Cash on Delivery
+1247,Neha Sharma,49.0,Male,Bangalore,2023-12-06,2024-10-25,3964.21,2.8,Clothing,UPI
+1248,Neha Roy,26.0,Male,Bangalore,2022-01-22,2022-10-26,2634.62,2.2,Groceries,UPI
+1249,Neha Sen,58.0,Male,Chennai,2023-04-19,2023-09-07,,2.0,Groceries,Card
+1250,Karan Kumar,52.0,Female,Kolkata,2022-04-30,2023-01-30,822.52,1.8,Electronics,Card
+1251,Karan Singh,36.0,Male,Kolkata,2022-07-29,2023-05-15,1708.14,1.2,Home Decor,UPI
+1252,Rahul Dutta,,Male,Chennai,2022-11-02,2023-10-02,2226.69,,Clothing,Cash on Delivery
+1253,Amit Das,20.0,Female,Mumbai,2022-09-27,2022-11-18,534.14,2.1,Home Decor,UPI
+1254,Priya Das,,Male,Mumbai,2023-12-05,2024-01-01,1181.0,4.9,Home Decor,UPI
+1255,Ankit Dutta,41.0,Male,Mumbai,2023-11-18,2024-04-23,3031.3,3.2,Clothing,Cash on Delivery
+1256,Ankit Sharma,50.0,Male,Chennai,2022-10-12,2023-06-08,3704.75,2.4,Groceries,Cash on Delivery
+1257,Priya Sen,41.0,Male,Kolkata,2023-12-17,2024-05-21,4991.9,3.3,Home Decor,Cash on Delivery
+1258,Pooja Paul,28.0,Male,Chennai,2023-11-07,2024-08-24,4672.26,1.6,Home Decor,Cash on Delivery
+1259,Neha Gupta,25.0,Female,Chennai,2024-02-02,2024-06-17,3248.57,2.8,Groceries,UPI
+1260,Riya Paul,53.0,Male,Mumbai,2022-08-15,2023-01-06,2164.12,3.5,Clothing,UPI
+1261,Neha Dutta,55.0,Male,Delhi,2023-01-16,2023-05-02,3217.27,3.0,Electronics,Card
+1262,Riya Singh,57.0,Male,Kolkata,2023-04-05,2023-09-10,3949.69,2.6,Groceries,UPI
+1263,Riya Verma,37.0,Male,Mumbai,2022-01-07,2022-06-02,679.85,5.0,Electronics,Cash on Delivery
+1264,Ankit Paul,52.0,Male,Delhi,2022-01-29,2022-01-31,2108.53,4.5,Electronics,Card
+1265,Rahul Roy,42.0,Female,Delhi,2022-02-02,2022-04-20,4215.03,3.5,Groceries,Cash on Delivery
+1266,Arjun Das,52.0,Male,Bangalore,2023-10-08,2024-02-17,1980.78,3.3,Home Decor,UPI
+1267,Rahul Sharma,42.0,Female,Kolkata,2024-05-28,2024-08-26,2902.17,3.5,Electronics,Card
+1268,Arjun Roy,46.0,Female,Delhi,2022-03-20,2023-02-28,2980.07,1.8,Electronics,Cash on Delivery
+1269,Arjun Singh,35.0,Male,Mumbai,2023-04-04,2024-03-19,1003.93,2.6,Clothing,Card
+1270,Amit Paul,35.0,Male,Bangalore,2023-07-24,2024-04-12,1874.95,1.2,Home Decor,Card
+1271,Neha Roy,19.0,Male,Kolkata,2023-06-22,2024-06-07,1739.11,,Electronics,UPI
+1272,Sneha Roy,52.0,Male,Chennai,2023-04-27,2023-08-13,228.36,3.2,Clothing,Cash on Delivery
+1273,Riya Paul,33.0,Female,Mumbai,2023-03-06,2023-05-19,218.54,1.9,Home Decor,Card
+1274,Neha Verma,58.0,Male,Delhi,2024-01-08,2024-02-16,4175.32,4.9,Groceries,Card
+1275,Arjun Gupta,53.0,Male,Delhi,2022-10-12,2023-03-20,1438.05,4.6,Groceries,Cash on Delivery
+1276,Ankit Sen,50.0,Male,Mumbai,2023-05-31,2023-08-10,2638.59,3.9,Clothing,Card
+1277,Rahul Singh,21.0,Male,Delhi,2022-04-09,2023-02-15,1563.76,3.1,Groceries,Card
+1278,Pooja Gupta,50.0,Male,Bangalore,2023-02-01,2023-09-30,4709.33,4.5,Electronics,Card
+1279,Karan Gupta,31.0,Male,Kolkata,2023-05-04,2024-02-26,1370.55,1.5,Home Decor,Cash on Delivery
+1280,Pooja Gupta,,Female,Bangalore,2022-02-08,2022-03-16,2205.32,4.2,Electronics,Cash on Delivery
+1281,Neha Dutta,37.0,Female,Delhi,2022-09-28,2022-12-21,4376.38,1.5,Electronics,Cash on Delivery
+1282,Karan Das,25.0,Male,Chennai,2024-06-05,2025-02-23,4225.47,4.2,Groceries,Cash on Delivery
+1283,Riya Singh,24.0,Male,Kolkata,2024-03-07,2025-01-11,1011.9,2.1,Electronics,UPI
+1284,Karan Dutta,20.0,Male,Kolkata,2022-06-06,2022-11-25,4032.95,4.5,Groceries,Card
+1285,Neha Dutta,34.0,Female,Mumbai,2022-03-16,2022-09-05,2345.12,4.8,Home Decor,Cash on Delivery
+1286,Ankit Roy,50.0,Male,Mumbai,2024-06-02,2025-05-30,2466.55,1.6,Home Decor,Card
+1287,Sneha Roy,29.0,Female,Chennai,2024-03-10,2024-04-26,754.05,,Electronics,Card
+1288,Sneha Paul,,Male,Kolkata,2022-05-10,2022-09-28,494.95,4.9,Clothing,UPI
+1289,Karan Paul,39.0,Male,Chennai,2023-11-18,2024-03-15,3666.9,2.9,Groceries,Cash on Delivery
+1290,Priya Gupta,47.0,Male,Mumbai,2022-03-25,2022-12-27,2532.66,4.5,Groceries,Cash on Delivery
+1291,Arjun Kumar,55.0,Male,Mumbai,2022-01-22,2022-08-24,2240.57,3.4,Electronics,Card
+1292,Arjun Sen,55.0,Female,Kolkata,2023-04-04,2023-11-10,3674.59,2.5,Groceries,Cash on Delivery
+1293,Karan Gupta,25.0,Female,Bangalore,2023-06-23,2023-07-19,3851.01,2.1,Groceries,Card
+1294,Rahul Kumar,44.0,Male,Delhi,2023-12-08,2023-12-17,878.65,1.8,Clothing,Card
+1295,Karan Kumar,44.0,Male,Mumbai,2024-04-28,2025-01-24,3090.1,4.0,Clothing,UPI
+1296,Pooja Gupta,51.0,Female,Mumbai,2023-01-17,2023-01-27,763.24,2.5,Electronics,UPI
+1297,Riya Paul,38.0,Female,Bangalore,2024-01-18,2024-05-18,3781.74,,Clothing,UPI
+1298,Ankit Sharma,47.0,Female,Bangalore,2023-03-16,2023-07-19,3319.08,3.0,Electronics,Card
+1299,Neha Paul,50.0,Female,Chennai,2023-08-27,2024-02-13,4787.41,3.3,Home Decor,Cash on Delivery
+1300,Riya Verma,45.0,Male,Chennai,2022-01-21,2022-04-03,437.89,4.5,Electronics,UPI
+1301,Riya Dutta,50.0,Female,Delhi,2022-10-30,2023-03-31,379.57,4.9,Home Decor,Cash on Delivery
+1302,Arjun Gupta,22.0,Male,Delhi,2024-05-18,2024-12-12,1482.72,2.6,Electronics,UPI
+1303,Priya Das,36.0,Female,Kolkata,2022-03-25,2022-05-13,1382.36,4.3,Groceries,UPI
+1304,Arjun Roy,21.0,Female,Chennai,2024-02-13,2024-07-16,1310.2,4.1,Clothing,Card
+1305,Amit Sen,52.0,Female,Mumbai,2023-10-21,2024-10-02,4540.65,3.3,Home Decor,UPI
+1306,Neha Singh,34.0,Female,Chennai,2023-03-29,2024-01-16,1322.78,4.8,Electronics,UPI
+1307,Arjun Singh,45.0,Female,Mumbai,2023-01-22,2023-03-31,1432.55,1.8,Clothing,Card
+1308,Neha Sen,47.0,Male,Bangalore,2023-05-22,2023-07-11,3821.05,1.4,Electronics,Cash on Delivery
+1309,Pooja Das,46.0,Male,Chennai,2022-09-14,2023-02-13,2303.73,4.4,Clothing,UPI
+1310,Pooja Das,23.0,Female,Bangalore,2023-07-24,2023-08-12,3905.88,2.8,Clothing,Card
+1311,Neha Das,52.0,Female,Delhi,2024-06-10,2024-09-18,420.29,4.4,Electronics,UPI
+1312,Amit Gupta,58.0,Male,Delhi,2023-06-11,2023-08-10,2489.1,4.6,Home Decor,Card
+1313,Neha Kumar,54.0,Female,Kolkata,2022-06-11,2022-11-25,264.71,1.2,Home Decor,Cash on Delivery
+1314,Rahul Dutta,41.0,Female,Chennai,2022-06-12,2022-12-31,407.0,4.5,Groceries,Cash on Delivery
+1315,Sneha Gupta,46.0,Male,Bangalore,2024-04-11,2025-03-22,4541.54,,Clothing,Card
+1316,Neha Sharma,48.0,Female,Mumbai,2024-03-03,2024-07-27,782.3,3.0,Groceries,Card
+1317,Priya Kumar,52.0,Female,Delhi,2024-03-02,2024-08-13,,,Groceries,Card
+1318,Rahul Verma,50.0,Male,Delhi,2023-06-08,2024-02-05,2114.37,4.7,Electronics,Cash on Delivery
+1319,Arjun Roy,38.0,Male,Mumbai,2024-02-25,2024-05-04,1801.98,1.1,Electronics,UPI
+1320,Sneha Dutta,49.0,Male,Bangalore,2022-09-28,2023-03-22,4509.18,,Electronics,Cash on Delivery
+1321,Riya Dutta,40.0,Female,Bangalore,2023-05-07,2023-06-25,206.93,3.8,Clothing,Card
+1322,Rahul Sen,50.0,Male,Chennai,2022-07-27,2022-11-12,3352.57,3.9,Electronics,Card
+1323,Sneha Sharma,20.0,Male,Chennai,2023-06-23,2024-02-04,4820.63,3.8,Electronics,Cash on Delivery
+1324,Neha Sharma,35.0,Male,Kolkata,2023-08-07,2024-01-15,2844.82,1.5,Clothing,Card
+1325,Riya Sen,42.0,Male,Delhi,2022-03-01,2022-06-28,4690.43,2.2,Clothing,Cash on Delivery
+1326,Ankit Sharma,59.0,Male,Chennai,2023-03-06,2023-08-02,356.06,2.4,Home Decor,Card
+1327,Neha Singh,48.0,Male,Bangalore,2023-10-19,2024-03-17,2152.09,4.2,Electronics,UPI
+1328,Arjun Dutta,20.0,Female,Mumbai,2023-08-28,2024-06-16,1374.77,2.1,Electronics,UPI
+1329,Priya Verma,57.0,Female,Bangalore,2022-11-05,2023-03-28,3681.02,1.8,Electronics,Card
+1330,Pooja Das,41.0,Male,Delhi,2023-06-04,2023-11-11,4908.36,4.8,Home Decor,Cash on Delivery
+1331,Neha Dutta,49.0,Male,Bangalore,2023-08-14,2023-08-25,1357.0,1.0,Electronics,UPI
+1332,Arjun Sharma,39.0,Male,Kolkata,2022-01-27,2022-06-14,3305.46,5.0,Home Decor,Cash on Delivery
+1333,Neha Sharma,40.0,Female,Delhi,2023-11-17,2024-02-03,1070.68,3.7,Groceries,Card
+1334,Karan Singh,19.0,Female,Mumbai,2023-07-16,2023-10-01,2870.12,4.3,Home Decor,Cash on Delivery
+1335,Arjun Paul,44.0,Female,Kolkata,2022-07-18,2023-03-29,2373.27,2.2,Groceries,UPI
+1336,Priya Singh,59.0,Female,Delhi,2023-01-22,2023-10-07,4862.83,1.1,Electronics,Cash on Delivery
+1337,Karan Kumar,19.0,Female,Mumbai,2022-12-15,2023-10-31,3081.78,4.0,Groceries,Cash on Delivery
+1338,Karan Singh,43.0,Female,Kolkata,2023-11-24,2024-09-10,1812.58,4.3,Home Decor,Card
+1339,Pooja Sen,34.0,Female,Kolkata,2023-06-20,2024-03-09,659.07,4.0,Clothing,Card
+1340,Riya Paul,57.0,Female,Delhi,2024-04-07,2024-07-01,841.11,1.6,Groceries,Card
+1341,Karan Verma,50.0,Female,Chennai,2023-01-13,2023-06-08,1204.05,4.0,Groceries,UPI
+1342,Priya Roy,26.0,Male,Kolkata,2024-06-17,2025-05-06,1329.74,4.1,Electronics,UPI
+1343,Ankit Roy,56.0,Male,Kolkata,2023-07-12,2023-08-23,,3.6,Home Decor,Card
+1344,Rahul Kumar,46.0,Male,Mumbai,2023-06-11,2023-10-14,2849.99,4.1,Groceries,Card
+1345,Rahul Dutta,,Male,Bangalore,2022-06-02,2022-11-16,2664.62,4.4,Groceries,UPI
+1346,Karan Sharma,43.0,Female,Delhi,2024-01-04,2024-09-01,662.37,3.5,Groceries,UPI
+1347,Arjun Singh,52.0,Female,Delhi,2022-07-25,2023-05-01,4314.68,1.4,Groceries,UPI
+1348,Karan Paul,42.0,Male,Chennai,2023-03-31,2023-10-05,3641.79,3.0,Clothing,UPI
+1349,Sneha Kumar,41.0,Female,Chennai,2022-09-30,2023-07-29,431.57,1.3,Home Decor,Card
+1350,Sneha Das,30.0,Male,Delhi,2024-06-12,2024-07-01,3568.39,2.6,Electronics,UPI
+1351,Riya Singh,24.0,Female,Chennai,2022-08-24,2022-10-31,2763.34,2.6,Electronics,Card
+1352,Ankit Sharma,53.0,Male,Mumbai,2024-05-01,2024-12-05,500.45,1.3,Clothing,Cash on Delivery
+1353,Sneha Sharma,37.0,Female,Delhi,2024-01-10,2024-04-21,2345.67,2.4,Home Decor,Cash on Delivery
+1354,Arjun Roy,18.0,Female,Chennai,2023-06-05,2023-07-17,2475.01,1.4,Groceries,UPI
+1355,Karan Das,25.0,Male,Delhi,2023-11-09,2024-08-23,912.3,4.2,Clothing,Cash on Delivery
+1356,Priya Sharma,33.0,Female,Bangalore,2024-04-10,2024-09-24,4733.92,4.8,Home Decor,Cash on Delivery
+1357,Priya Roy,31.0,Male,Kolkata,2023-12-27,2024-04-14,4264.88,1.3,Groceries,Cash on Delivery
+1358,Amit Kumar,29.0,Male,Delhi,2023-05-16,2023-06-21,3378.21,4.8,Clothing,UPI
+1359,Ankit Verma,40.0,Male,Kolkata,2022-04-27,2022-12-15,2365.25,3.1,Home Decor,UPI
+1360,Rahul Gupta,32.0,Male,Chennai,2023-01-21,2023-09-07,2117.65,,Electronics,Cash on Delivery
+1361,Neha Sen,45.0,Female,Kolkata,2022-12-10,2023-11-28,3289.77,1.3,Electronics,Card
+1362,Neha Verma,51.0,Female,Delhi,2023-08-07,2024-01-18,2772.62,3.0,Home Decor,Cash on Delivery
+1363,Riya Kumar,,Female,Bangalore,2023-01-30,2023-04-13,405.14,4.2,Electronics,UPI
+1364,Arjun Sen,49.0,Male,Chennai,2022-03-05,2022-07-19,2611.26,3.8,Home Decor,UPI
+1365,Priya Das,40.0,Female,Delhi,2023-12-18,2024-12-05,4051.38,1.2,Groceries,UPI
+1366,Karan Dutta,39.0,Male,Chennai,2023-12-22,2024-03-01,2350.28,1.3,Home Decor,Cash on Delivery
+1367,Karan Kumar,42.0,Female,Mumbai,2022-03-13,2022-09-25,354.59,2.6,Groceries,Card
+1368,Neha Kumar,39.0,Female,Kolkata,2024-02-28,2024-11-23,3952.76,2.2,Clothing,UPI
+1369,Riya Dutta,39.0,Female,Mumbai,2022-10-01,2022-11-19,1086.68,1.9,Home Decor,UPI
+1370,Sneha Paul,,Male,Delhi,2022-11-16,2023-09-28,1367.24,2.1,Clothing,Cash on Delivery
+1371,Rahul Roy,23.0,Female,Bangalore,2022-12-04,2023-04-13,907.06,4.2,Electronics,Card
+1372,Neha Dutta,32.0,Female,Chennai,2023-01-01,2023-01-06,1718.05,4.7,Groceries,Cash on Delivery
+1373,Priya Gupta,54.0,Male,Kolkata,2023-05-10,2023-06-06,3808.08,2.6,Home Decor,UPI
+1374,Sneha Verma,50.0,Female,Chennai,2023-08-30,2024-02-06,2644.99,4.6,Clothing,Card
+1375,Rahul Das,25.0,Male,Delhi,2022-06-15,2022-11-11,1103.92,2.3,Groceries,Card
+1376,Amit Roy,22.0,Female,Chennai,2023-06-28,2024-03-18,4401.37,2.9,Groceries,UPI
+1377,Pooja Singh,56.0,Male,Kolkata,2022-01-11,2022-08-29,4409.95,1.9,Electronics,Card
+1378,Neha Paul,21.0,Male,Delhi,2022-10-28,2023-05-16,4365.83,3.6,Electronics,Card
+1379,Riya Kumar,23.0,Female,Chennai,2023-12-30,2024-02-18,1270.1,4.9,Groceries,Cash on Delivery
+1380,Riya Dutta,49.0,Male,Bangalore,2024-03-11,2024-05-17,2311.07,3.4,Groceries,UPI
+1381,Pooja Das,47.0,Male,Delhi,2022-04-12,2023-02-06,4926.45,2.4,Home Decor,UPI
+1382,Riya Verma,52.0,Male,Delhi,2023-03-01,2023-04-28,3882.86,3.6,Groceries,UPI
+1383,Pooja Das,57.0,Male,Bangalore,2023-01-27,2023-10-13,233.12,1.5,Home Decor,UPI
+1384,Priya Sen,33.0,Male,Mumbai,2024-02-18,2025-01-25,419.5,4.6,Groceries,UPI
+1385,Rahul Sen,30.0,Male,Kolkata,2022-08-02,2023-06-24,2373.26,3.0,Electronics,Card
+1386,Rahul Das,59.0,Female,Mumbai,2023-11-22,2024-03-31,4555.18,2.8,Home Decor,Cash on Delivery
+1387,Pooja Gupta,47.0,Male,Chennai,2022-03-29,2022-10-30,,3.3,Clothing,UPI
+1388,Karan Gupta,36.0,Male,Bangalore,2023-07-07,2023-12-26,2539.28,3.5,Electronics,Cash on Delivery
+1389,Riya Singh,34.0,Female,Mumbai,2023-02-05,2023-10-21,616.82,1.3,Home Decor,Cash on Delivery
+1390,Priya Sharma,36.0,Female,Delhi,2023-08-11,2023-11-21,3318.22,,Home Decor,Card
+1391,Karan Sen,45.0,Female,Chennai,2024-06-07,2025-01-02,4128.31,2.0,Clothing,UPI
+1392,Pooja Roy,43.0,Female,Chennai,2022-02-15,2022-12-03,1964.06,3.9,Home Decor,Card
+1393,Arjun Dutta,54.0,Female,Mumbai,2023-11-03,2024-10-22,3900.5,4.3,Groceries,UPI
+1394,Pooja Gupta,43.0,Female,Mumbai,2023-04-08,2024-01-19,4825.94,4.2,Clothing,Card
+1395,Neha Paul,40.0,Female,Bangalore,2023-08-15,2023-12-09,1098.46,3.2,Electronics,Cash on Delivery
+1396,Priya Das,26.0,Male,Kolkata,2022-11-06,2023-07-28,2664.32,3.1,Electronics,UPI
+1397,Arjun Kumar,29.0,Male,Mumbai,2022-03-27,2022-08-24,1506.98,1.6,Groceries,Cash on Delivery
+1398,Karan Dutta,18.0,Female,Mumbai,2022-04-02,2023-01-27,3984.99,,Electronics,Cash on Delivery
+1399,Riya Kumar,18.0,Male,Delhi,2023-10-22,2023-11-27,2930.21,2.1,Home Decor,Card
+1400,Riya Das,51.0,Male,Chennai,2023-11-04,2024-10-02,3209.45,3.0,Home Decor,UPI
+1401,Ankit Roy,49.0,Male,Kolkata,2023-12-15,2024-09-27,4009.78,2.1,Groceries,Cash on Delivery
+1402,Priya Das,42.0,Female,Delhi,2022-08-30,2023-06-29,2040.26,1.5,Electronics,Card
+1403,Amit Singh,57.0,Female,Bangalore,2024-05-14,2025-03-21,4583.94,3.5,Electronics,UPI
+1404,Ankit Sharma,18.0,Male,Bangalore,2022-01-02,2022-07-29,2711.84,1.2,Groceries,UPI
+1405,Neha Sharma,33.0,Female,Mumbai,2022-08-13,2022-11-27,873.98,4.0,Clothing,Cash on Delivery
+1406,Priya Sen,56.0,Male,Mumbai,2024-03-11,2024-08-16,3509.91,2.3,Electronics,UPI
+1407,Riya Paul,22.0,Male,Bangalore,2024-01-15,2024-05-15,3986.98,1.0,Clothing,Cash on Delivery
+1408,Rahul Roy,,Male,Mumbai,2023-08-12,2023-10-06,1652.13,3.0,Electronics,UPI
+1409,Ankit Gupta,46.0,Male,Kolkata,2022-04-26,2022-05-08,4300.18,1.2,Electronics,Card
+1410,Pooja Paul,20.0,Female,Mumbai,2023-10-28,2024-03-21,4540.1,2.1,Electronics,Cash on Delivery
+1411,Rahul Singh,29.0,Female,Chennai,2022-04-13,2022-08-27,,3.8,Electronics,Cash on Delivery
+1412,Ankit Verma,43.0,Female,Mumbai,2022-07-13,2022-07-16,4919.26,1.3,Home Decor,UPI
+1413,Arjun Sharma,33.0,Male,Delhi,2022-06-15,2022-11-06,789.49,4.4,Clothing,UPI
+1414,Neha Das,54.0,Female,Kolkata,2024-05-20,2024-06-19,1089.88,1.0,Clothing,Cash on Delivery
+1415,Rahul Singh,39.0,Male,Delhi,2022-03-31,2022-11-23,1002.7,2.0,Electronics,UPI
+1416,Karan Kumar,46.0,Female,Delhi,2023-11-17,2024-08-22,4480.55,4.0,Electronics,Card
+1417,Karan Verma,31.0,Male,Chennai,2022-05-02,2023-04-15,3306.03,,Clothing,UPI
+1418,Neha Verma,45.0,Male,Kolkata,2022-05-23,2022-09-15,845.31,1.4,Home Decor,Card
+1419,Sneha Roy,22.0,Male,Kolkata,2022-04-16,2022-07-29,2257.58,2.4,Groceries,Card
+1420,Arjun Sen,47.0,Female,Kolkata,2024-06-05,2024-10-01,3114.96,2.1,Groceries,Card
+1421,Priya Paul,22.0,Female,Kolkata,2023-03-04,2023-03-09,508.97,4.4,Clothing,Card
+1422,Pooja Dutta,29.0,Female,Kolkata,2022-11-01,2023-10-27,4423.84,2.3,Electronics,Card
+1423,Rahul Dutta,33.0,Female,Chennai,2024-05-21,2025-01-24,4037.66,4.2,Electronics,UPI
+1424,Neha Sharma,43.0,Male,Mumbai,2022-11-13,2023-11-12,2575.51,4.6,Home Decor,Card
+1425,Ankit Dutta,43.0,Female,Delhi,2023-09-27,2024-08-13,4838.92,2.7,Groceries,UPI
+1426,Neha Kumar,38.0,Female,Kolkata,2022-01-09,2022-05-10,2147.03,4.6,Home Decor,Card
+1427,Ankit Sharma,56.0,Male,Mumbai,2024-02-13,2024-11-25,4922.14,2.5,Groceries,Cash on Delivery
+1428,Arjun Sharma,53.0,Male,Mumbai,2022-03-14,2022-08-10,3372.81,4.9,Clothing,Card
+1429,Ankit Singh,50.0,Male,Delhi,2022-12-25,2023-03-19,3209.89,1.4,Groceries,Cash on Delivery
+1430,Priya Sharma,47.0,Female,Chennai,2022-08-11,2023-03-30,913.18,3.7,Home Decor,Card
+1431,Karan Dutta,54.0,Male,Bangalore,2023-02-20,2023-12-05,4421.45,3.0,Home Decor,Card
+1432,Karan Verma,40.0,Male,Bangalore,2023-07-07,2023-12-15,2194.7,2.6,Home Decor,Card
+1433,Sneha Sharma,27.0,Male,Mumbai,2023-01-05,2023-10-04,894.94,3.5,Clothing,Cash on Delivery
+1434,Amit Sen,22.0,Female,Delhi,2023-12-17,2024-01-24,161.78,3.8,Groceries,Cash on Delivery
+1435,Pooja Sharma,53.0,Male,Bangalore,2022-09-21,2023-05-05,2842.8,1.0,Groceries,Card
+1436,Amit Dutta,51.0,Female,Mumbai,2024-04-19,2024-09-08,,1.7,Home Decor,UPI
+1437,Sneha Dutta,48.0,Female,Chennai,2023-11-21,2024-09-08,3624.83,3.9,Groceries,Card
+1438,Ankit Sharma,27.0,Male,Bangalore,2024-05-09,2024-10-07,4462.26,3.7,Electronics,Cash on Delivery
+1439,Amit Verma,36.0,Male,Mumbai,2022-11-14,2023-03-08,489.09,4.9,Electronics,Card
+1440,Neha Dutta,49.0,Female,Mumbai,2022-03-25,2022-11-17,3684.33,,Electronics,Cash on Delivery
+1441,Neha Kumar,18.0,Male,Kolkata,2022-11-14,2023-01-19,1018.32,4.8,Groceries,Cash on Delivery
+1442,Amit Das,22.0,Male,Chennai,2022-04-21,2023-04-17,4305.07,3.8,Clothing,Cash on Delivery
+1443,Riya Roy,21.0,Female,Kolkata,2022-09-08,2023-08-15,,2.2,Clothing,Card
+1444,Sneha Paul,33.0,Female,Delhi,2023-01-18,2023-10-03,2749.89,1.4,Clothing,Cash on Delivery
+1445,Arjun Sen,41.0,Male,Kolkata,2022-01-07,2022-09-13,3580.19,4.1,Clothing,Cash on Delivery
+1446,Riya Roy,33.0,Female,Kolkata,2023-04-04,2024-02-29,1640.32,3.6,Electronics,Card
+1447,Karan Dutta,19.0,Male,Bangalore,2022-03-25,2023-02-11,2408.72,1.2,Electronics,Cash on Delivery
+1448,Neha Singh,45.0,Male,Mumbai,2022-07-27,2023-01-23,4126.02,2.4,Home Decor,Card
+1449,Karan Dutta,49.0,Male,Chennai,2024-06-18,2024-12-25,2350.4,,Groceries,Cash on Delivery
+1450,Amit Das,44.0,Female,Kolkata,2023-01-25,2023-06-28,1853.21,3.0,Groceries,UPI
+1451,Amit Sen,37.0,Male,Chennai,2022-11-10,2023-05-25,2521.64,2.7,Clothing,UPI
+1452,Amit Gupta,41.0,Male,Kolkata,2022-01-22,2022-11-29,4158.42,2.8,Electronics,Cash on Delivery
+1453,Pooja Sharma,29.0,Male,Delhi,2023-02-14,2023-11-03,1742.52,1.8,Clothing,UPI
+1454,Rahul Singh,52.0,Female,Kolkata,2024-06-13,2024-11-03,951.43,2.5,Home Decor,Card
+1455,Priya Sen,50.0,Female,Bangalore,2023-05-30,2024-05-06,3588.87,2.5,Groceries,UPI
+1456,Amit Sharma,50.0,Female,Mumbai,2022-05-07,2023-03-19,4147.29,1.2,Groceries,Cash on Delivery
+1457,Riya Das,54.0,Female,Delhi,2024-03-19,2024-06-28,593.12,4.1,Clothing,Cash on Delivery
+1458,Karan Kumar,29.0,Female,Kolkata,2023-12-01,2024-08-01,1275.38,2.7,Home Decor,Card
+1459,Priya Verma,20.0,Male,Chennai,2024-05-23,2024-06-04,,4.3,Groceries,Cash on Delivery
+1460,Karan Paul,18.0,Female,Delhi,2022-01-14,2022-09-10,,4.4,Home Decor,Card
+1461,Neha Dutta,50.0,Female,Delhi,2022-01-12,2022-03-02,2306.72,1.8,Home Decor,UPI
+1462,Ankit Roy,57.0,Female,Kolkata,2022-03-28,2022-05-09,3769.25,3.6,Clothing,UPI
+1463,Amit Roy,27.0,Male,Delhi,2023-06-08,2023-11-21,3290.62,2.9,Electronics,Card
+1464,Ankit Singh,46.0,Female,Chennai,2023-06-21,2023-09-11,3142.55,4.5,Clothing,Card
+1465,Ankit Verma,,Female,Delhi,2022-10-28,2023-08-15,1826.64,1.9,Electronics,Cash on Delivery
+1466,Neha Dutta,29.0,Male,Chennai,2022-08-31,2023-02-05,4223.09,3.7,Home Decor,UPI
+1467,Arjun Das,48.0,Female,Kolkata,2022-05-02,2022-12-04,2409.31,3.4,Electronics,Card
+1468,Amit Roy,19.0,Male,Mumbai,2022-05-27,2022-11-01,4897.61,2.2,Home Decor,UPI
+1469,Neha Verma,52.0,Male,Delhi,2023-07-21,2023-12-02,3207.3,1.5,Groceries,Card
+1470,Sneha Sharma,40.0,Male,Mumbai,2024-01-20,2024-03-27,718.7,3.6,Groceries,UPI
+1471,Ankit Kumar,34.0,Male,Chennai,2022-12-22,2023-11-23,,4.0,Groceries,Cash on Delivery
+1472,Rahul Dutta,43.0,Male,Delhi,2023-11-16,2023-11-23,1693.01,2.3,Clothing,UPI
+1473,Ankit Verma,25.0,Female,Bangalore,2024-01-03,2024-01-17,3463.0,3.6,Clothing,UPI
+1474,Sneha Roy,46.0,Male,Mumbai,2023-09-23,2023-12-05,441.24,2.6,Home Decor,UPI
+1475,Priya Verma,43.0,Male,Delhi,2022-11-05,2023-04-17,956.92,3.9,Groceries,UPI
+1476,Sneha Kumar,27.0,Female,Mumbai,2023-11-26,2024-01-31,4293.11,1.8,Clothing,UPI
+1477,Amit Das,43.0,Male,Delhi,2022-10-15,2023-09-27,1213.18,4.6,Groceries,Cash on Delivery
+1478,Karan Singh,51.0,Female,Kolkata,2022-11-03,2023-03-13,4201.5,2.1,Clothing,Card
+1479,Ankit Sharma,58.0,Female,Mumbai,2024-03-22,2024-10-14,1468.45,2.5,Electronics,UPI
+1480,Karan Paul,24.0,Female,Bangalore,2023-08-17,2024-05-19,3250.12,1.2,Electronics,Cash on Delivery
+1481,Riya Dutta,21.0,Male,Bangalore,2023-12-24,2024-09-05,3501.34,1.4,Groceries,UPI
+1482,Rahul Dutta,28.0,Male,Chennai,2023-10-24,2024-07-16,2612.01,3.1,Home Decor,UPI
+1483,Rahul Das,46.0,Male,Delhi,2023-07-03,2023-07-28,1596.02,2.1,Clothing,Card
+1484,Ankit Sen,53.0,Female,Mumbai,2022-12-18,2023-09-25,1141.96,4.3,Clothing,UPI
+1485,Amit Roy,42.0,Male,Chennai,2022-11-08,2023-07-19,262.63,1.1,Electronics,Cash on Delivery
+1486,Neha Dutta,38.0,Male,Mumbai,2024-05-22,2025-03-28,1589.34,2.5,Electronics,Cash on Delivery
+1487,Rahul Gupta,53.0,Male,Delhi,2022-02-28,2022-12-14,3300.5,2.3,Home Decor,Card
+1488,Sneha Sen,27.0,Female,Bangalore,2023-10-05,2024-03-17,4697.69,1.1,Home Decor,UPI
+1489,Karan Gupta,54.0,Female,Kolkata,2023-12-15,2024-03-19,4368.9,1.5,Home Decor,Cash on Delivery
+1490,Sneha Roy,26.0,Male,Bangalore,2024-01-25,2024-10-21,3853.72,2.7,Groceries,UPI
+1491,Ankit Dutta,41.0,Male,Chennai,2022-02-04,2022-12-22,3963.39,3.0,Electronics,UPI
+1492,Arjun Sen,52.0,Male,Kolkata,2023-03-21,2023-07-09,3358.43,2.6,Groceries,UPI
+1493,Rahul Paul,52.0,Male,Chennai,2022-04-03,2023-03-05,1375.41,3.1,Electronics,Card
+1494,Riya Sen,53.0,Female,Delhi,2022-07-26,2023-06-01,4545.26,3.4,Electronics,UPI
+1495,Karan Das,,Female,Kolkata,2022-12-19,2023-08-14,3386.59,1.0,Clothing,Cash on Delivery
+1496,Sneha Sen,56.0,Female,Chennai,2022-11-28,2022-12-23,2846.16,2.9,Electronics,UPI
+1497,Sneha Paul,49.0,Female,Delhi,2024-03-27,2024-08-15,,4.9,Electronics,Cash on Delivery
+1498,Karan Verma,41.0,Male,Bangalore,2024-05-11,2024-09-05,2290.57,3.1,Groceries,UPI
+1499,Pooja Dutta,40.0,Male,Delhi,2023-12-26,2024-01-20,2355.76,3.7,Electronics,Cash on Delivery
+1500,Neha Sharma,49.0,Male,Mumbai,2022-06-08,2022-08-26,4336.36,2.2,Groceries,Cash on Delivery
